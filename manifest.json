@@ -1,0 +1,7 @@
+{
+  "domain": "tydom_climate",
+  "name": "tydom_climate",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": ["@m3xiz"]
+}
